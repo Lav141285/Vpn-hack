@@ -1,0 +1,98 @@
+Yêu cầu phiên bản termux: 1.1.9 trở lên, ngoài phiên bản này vui lòng tải lại phiên bản 1.1.9
+Đối với phiên bản 1.1.8 đổ xuống, cần copy code này để chạy trước đã rồi copy code 4g 0đ nha:
+termux-setup-storage && apt upgrade -y
+chạy lệnh này xong ròii mới copy code mà chạy nha, nếu hongg thì khi copy code mà chạy sẽ báo lỗi libssl.so.3 nha
+
+Code Termux :
+bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3dir/main/install.sh)
+
+
+
+
+
+
+
+
+
+Hoặc:
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3dir/raw/main/v3.zip && unzip v3.zip && chmod +x * && mv mod login && login
+Hoặc
+
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3dir/raw/main/v3.zip && unzip v3.zip && chmod +x * && mv mod login && login
+
+Các bạn copy cái nào cũng được nha.
+
+Chú ý: Sau khi chạy xong code termux xong nó sẽ tự chạy nha, khi ae tắt hẳn termux rồi vào lại nó sẽ tự động chạy nha
+
+Video hướng dẫn chi tiết cho code bản chạy trực tiếp: https://youtu.be/ot7edTcO70c
+
+Code Termux (Dùng cho ai chạy tool termux) (gõ 4ghack để chạy) (Code đã tối giản):
+bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-4ghack/main/install.sh)
+Hoặc:
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3-4ghack/raw/main/v3-4ghack.zip && unzip v3-4ghack.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && exit
+Hoặc
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/Lav141285/Vpn-hack/blob/main/v3-4ghack.zip && unzip v3-4ghack.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && exit
+
+Gõ 4ghack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Các bạn copy cái nào cũng được nha.
+
+Chú ý: Sau khi chạy xong code termux ròii thì ae vào lại termux, gõ 4ghack chứ ko phải tun nha
+
+Video hướng dẫn chi tiết: https://youtu.be/5lSgzYYKTfA
+
+Code Termux (Gõ tun để chạy) (Code đã tối giản):
+bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-tun/main/install.sh)
+Hoặc:
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3-tun/raw/main/v3-tun.zip && unzip v3-tun.zip && chmod a+x tun && chmod a+x psiphon-tunnel-core && exit
+Các bạn copy cái nào cũng được nha.
+
+Chú ý: Sau khi chạy xong code termux ròii thì ae vào lại termux, gõ tun để chạy nha
+
+Video hướng dẫn chi tiết: 
+- Sử dụng với Hyper socks droid:
+https://youtu.be/47yaj1A45Hw
+- Sử dụng với tun2tap: 
+https://youtu.be/qjf6hU9Yhs4
+
+
+©:Bản quyền code bởi kênh YouTube Hyper Networks Channel
+Đăng ký kênh: https://youtube.com/@hypernetworkschannel1
+
+Tất cả các video hướng dẫn chi tiết từ tập 1 đến tập 5:
+Tập 1: https://youtu.be/47yaj1A45Hw
+Tập 2: https://youtu.be/qjf6hU9Yhs4
+Tập 3: https://youtu.be/e6o1qzm_eWE
+Tập 4: https://youtu.be/5lSgzYYKTfA
+Tập 5: https://youtu.be/ot7edTcO70c
+hac 4g
