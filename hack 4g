@@ -39,7 +39,7 @@ Hoặc
 
 
 
-
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/Lav141285/Vpn-hack/blob/main/v3-5ghack.zip && unzip v3-5ghack.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && exit
 
 
 
